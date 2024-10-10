@@ -2,7 +2,7 @@
 
 A quick start project that shows how to customize and interact with the Syncfusion [Vue Query Builder](https://www.syncfusion.com/vue-components/vue-query-builder?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-query-builder-interaction-sample) component UI in a Vue project. This project contains simple code to lock, clone, and drag-and-drop groups and rules; set the maximum group count; and set rule validations. It also contains code to change display modes, the summary view, and separate connectors.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/query-builder?title=how-to-customize-and-interact-with-vue-query-builder-ui
 
 Refer to the following documentation to learn about the Vue Query Builder component: https://ej2.syncfusion.com/vue/documentation/query-builder/lock-group-rule
 
